@@ -4,7 +4,7 @@
 ## Tecnologias
 
 - Linguagem: Java
-- IDEs: Visual Studio Code, REPLIT
+- IDEs: Visual Studio Code e REPLIT
 
 ## Funcionalidades
 
