@@ -39,11 +39,10 @@ java Main
 3. O programa pedirá uma entrada (.txt) com uma formatação válida. E assim, realizará as operações pedidas entre os conjuntos declarados.
 
 ## Criação do (.txt) corretamente formatado
-1. Abra um editor de texto, como o Blodo de Notas no Windows ou o TextEdit no macOS.
 
-2. Na primeira linha, insira o número de operações que será realizado.
+1. Na primeira linha, insira o número de operações que será realizado.
 
-3. Em seguida, para cada operação, siga o padrão:
+2. Em seguida, para cada operação, siga o padrão:
 <br><br>
 a. Escreva o tipo de operação (U para união, I para interseção, D para diferença, C para produto cartesiano).
 <br><br>
