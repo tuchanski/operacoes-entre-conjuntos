@@ -52,20 +52,13 @@ b. Liste os conjuntos envolvidos na operação.
 c. Liste os elementos de cada conjunto separados por vírgulas.
 
 ## Exemplo de arquivo (.txt)
-4<br>
+2<br>
 U<br>
-3, 5, 67, 7<br>
+3, 5, 7, 9<br>
 1, 2, 3, 4<br>
-I<br>
-1, 2, 3, 4, 5<br>
-4, 5<br>
 D<br>
 1, A, C, 34<br>
 A, C, D, 23<br>
-C<br>
-3, 4, 5, 5, A, B, R<br>
-1, B, C, D, 1<br>
-
 
 ## Exemplo de Uso
 ```bash
