@@ -62,7 +62,7 @@ public class Main {
         try {
             Scanner input = new Scanner(System.in);
           System.out.println("- Seja bem-vindo! Lembre-se de inserir um arquivo no formato válido.");
-            System.out.print("- Entre o caminho do .txt para ser lido: ");
+            System.out.print("- Entre o caminho do (.txt) a ser lido: ");
             String path = input.next(); // Favor ir até a pasta de dados e inserir o caminho do arquivo escolhido. Padrão: dados_teste/nome_do_arquivo.txt
             // Exemplo: dados_teste/dados1.txt
 
