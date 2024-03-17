@@ -36,7 +36,10 @@ javac src\main\java\Main.java
 ```bash
 java src\main\java\Main.java
 ```
-6. O programa pedirá uma entrada (.txt) com uma formatação válida. E assim, realizará as operações pedidas entre os conjuntos declarados.
+6. O programa pedirá uma entrada (.txt) com uma formatação válida. E assim, realizará as operações pedidas entre os conjuntos declarados. Exemplo de entrada:
+```bash
+dados_teste/dados1.txt
+```
 
 ## Criação do (.txt) corretamente formatado
 
