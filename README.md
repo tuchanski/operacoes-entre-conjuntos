@@ -34,7 +34,7 @@ javac src\main\java\Main.java
 ```
 2. Execute o programa:
 ```bash
-java Main
+java src\main\java\Main.java
 ```
 3. O programa pedirá uma entrada (.txt) com uma formatação válida. E assim, realizará as operações pedidas entre os conjuntos declarados.
 
