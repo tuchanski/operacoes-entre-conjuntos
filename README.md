@@ -23,20 +23,20 @@ Este projeto oferece as seguintes funcionalidades:
 git clone https://github.com/tuchanski/matematica-discreta-conjuntos
 ```
 
-Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto:
 ```bash
 cd matematica-discreta-conjuntos
 ```
 
-1. Compile o programa:
+4. Compile o programa:
 ```bash
 javac src\main\java\Main.java
 ```
-2. Execute o programa:
+5. Execute o programa:
 ```bash
 java src\main\java\Main.java
 ```
-3. O programa pedirá uma entrada (.txt) com uma formatação válida. E assim, realizará as operações pedidas entre os conjuntos declarados.
+6. O programa pedirá uma entrada (.txt) com uma formatação válida. E assim, realizará as operações pedidas entre os conjuntos declarados.
 
 ## Criação do (.txt) corretamente formatado
 
