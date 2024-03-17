@@ -4,7 +4,7 @@
 ## Tecnologias
 
 - Linguagem: Java
-- IDE: Virtual Studio Code
+- IDE: Visual Studio Code
 
 ## Funcionalidades
 
