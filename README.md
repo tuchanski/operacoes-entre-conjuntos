@@ -65,6 +65,7 @@ A, C, D, 23<br>
 ## Exemplo de Uso
 ```bash
 - Seja bem-vindo! Lembre-se de inserir um arquivo no formato válido.
+- Entrada padrão p/ replit: dados_teste/nome_do_arquivo.txt
 - Entre o caminho do (.txt) a ser lido: c:\\temp\\dados1.txt
 
 União: conjunto 1 [3, 5, 7, 9], conjunto 2 [1, 2, 3, 4]. Resultado: [1, 2, 3, 4, 5, 7, 9]
