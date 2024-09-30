@@ -71,4 +71,7 @@ União: conjunto 1 [3, 5, 7, 9], conjunto 2 [1, 2, 3, 4]. Resultado: [1, 2, 3, 4
 
 
 Diferença: conjunto 1 [1, A, 34, C], conjunto 2 [A, 23, C, D]. Resultado: [1, 34]
+```
+## Autor
 
+- [Guilherme Tuchanski Rocha | GitHub](https://github.com/tuchanski)
