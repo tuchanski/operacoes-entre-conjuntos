@@ -1,10 +1,9 @@
-# Projeto Operações entre Conjuntos
+# Operações entre Conjuntos ✖️➗➕➖
 <p> O objetivo do programa é realizar operações entre conjuntos de dados através de um arquivo de texto (.txt) como entrada. Projeto criado para a matéria de "Resolução de Problemas de Natureza Discreta", da PUCPR. </p>
 
 ## Tecnologias
 
 - Linguagem: Java
-- IDEs: Visual Studio Code e REPLIT
 
 ## Funcionalidades
 
@@ -20,12 +19,12 @@ Este projeto oferece as seguintes funcionalidades:
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/tuchanski/matematica-discreta-conjuntos
+git clone https://github.com/tuchanski/operacoes-entre-conjuntos.git
 ```
 
 3. Navegue até o diretório do projeto:
 ```bash
-cd matematica-discreta-conjuntos
+cd operacoes-entre-conjuntos
 ```
 
 4. Compile o programa:
